@@ -1,12 +1,12 @@
 var danhSachAnh = [
-    '/baitaplon/img/nen1.1.jpg',
-    '/baitaplon/img/nen1.2.jpg',
-    '/baitaplon/img/nen1.3.jpg',
-    '/baitaplon/img/nen1.4.jpg',
-    '/baitaplon/img/nen1.5.jpg',
-    '/baitaplon/img/nen1.6.jpg',
-    '/baitaplon/img/nen1.7.jpg',
-    '/baitaplon/img/1.8.jpg'
+    './baitaplon/img/nen1.1.jpg',
+    './baitaplon/img/nen1.2.jpg',
+    './baitaplon/img/nen1.3.jpg',
+    './baitaplon/img/nen1.4.jpg',
+    './baitaplon/img/nen1.5.jpg',
+    './baitaplon/img/nen1.6.jpg',
+    './baitaplon/img/nen1.7.jpg',
+    './baitaplon/img/1.8.jpg'
 ];
 
 var index = 0;
